@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,country,gender,date_of_birth
+1,John,Doe,john.doe@example.com,USA,Male,1990-01-01
+2,Jane,Smith,jane.smith@example.com,USA,Female,1992-05-12
+3,Paul,Mukasa,paul.mukasa@example.com,Rwanda,Male,1985-07-28
+4,Grace,Uwase,grace.uwase@example.com,Rwanda,Female,1995-12-31
+5,Emmanuel,Mukiza,emmanuel.mukiza@example.com,Rwanda,Male,1987-03-15
+6,Angela,Mirembe,angela.mirembe@example.com,Uganda,Female,1991-09-03
+7,Joseph,Ndung'u,joseph.ndungu@example.com,Kenya,Male,1983-11-11
+8,Esther,Kimani,esther.kimani@example.com,Kenya,Female,1998-02-20
+9,David,Mwanza,david.mwanza@example.com,Tanzania,Male,1982-08-08
+10,Fatma,Said,fatma.said@example.com,Tanzania,Female,1993-06-22

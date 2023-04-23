@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,product,price
+1,1,2023-01-01,Phone,500
+2,2,2023-01-02,Tablet,700
+3,3,2023-01-03,TV,1000
+4,4,2023-01-04,Headphones,100
+5,5,2023-01-05,Smartwatch,250
